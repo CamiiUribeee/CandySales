@@ -1,0 +1,3 @@
+gomitas;65;1.500
+pinguinos;15;3.500
+raffaelo;18;8.000bombombun;50;300
